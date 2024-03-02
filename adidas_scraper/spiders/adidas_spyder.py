@@ -81,6 +81,4 @@ class AdidasSpider(scrapy.Spider):
             'general_description_itemization': general_description_itemization,
             'kws':tag_list,
             'reviews':reviews
-
-            # Add more fields as needed
         }
