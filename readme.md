@@ -8,9 +8,9 @@ To crawling adidas mens page here I used Scrapy-Splash.
 ### Process
 - clone the repository using ``` git clone git@github.com:ShojibHasan/adidas_spider.git ```
 - Make a virtualenv 
--- to make vitualenv open terminal and install virtualenv python package: ``` pip3 install virtualenv ```
--- for macos and linux now type: ``` python3 -m virtualenv venv ```
--- install requirements.txt : ``` pip3 install -r requirements.txt ```
+  - to make vitualenv open terminal and install virtualenv python package: ``` pip3 install virtualenv ```
+  - for macos and linux now type: ``` python3 -m virtualenv venv ```
+  - install requirements.txt : ``` pip3 install -r requirements.txt ```
 
 ### Run Adidas Spider
 active the virtualenv ``` source venv/bin/activate  ``` 
